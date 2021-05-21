@@ -2,6 +2,7 @@
 RC car which you can control from PC.
 ## Things required
 
+![Product Name Screen Shot][rc-car]
 
 
 
@@ -29,7 +30,8 @@ RC car which you can control from PC.
 
 
 
-[rc-car]: media/img.jpg
+
+[rc-car]: media/rc-car(1).jpg
 [l298n]: media/img.jpg
 [antenna]: media/img.jpg
 [buck_convertor]: media/img.jpg
