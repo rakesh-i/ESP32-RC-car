@@ -72,7 +72,7 @@ RC car, which you can control from your PC.
      
      <img src="media/standoff.jpg" alt="Logo" width="400" height="300">  
 12. Re-route esp32 cam antenna wher interference is less. 
-12. If you are struck follow the following video.
+12. If you are struck follow the following video.(coming soon)
 
 ## Code
 
