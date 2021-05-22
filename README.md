@@ -90,8 +90,8 @@ RC car, which you can control from your PC.
 5. `Client.py do not show video feed. Use stream.py to get video feed also.` 
 6. Now, turn on your car, wait for it to connect to your wifi. Once connected run client.py
 7. Once connection is made you can drive the car using AWSD keys on keyboard.
-8. You can change speed by changing the motorSpeed() function in server.py
-9. If direction is reversed, flip the sign of motorSpeed() values.
+8. You can change speed by changing the motor.motorSpeed() function in server.py
+9. If direction is reversed, flip the sign of motor.motorSpeed() values.
 
 
 ## Contribution
