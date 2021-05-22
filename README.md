@@ -28,19 +28,19 @@ RC car, which you can control from your PC.
 
 1. Open the outer shell.
    
-   <img src="media/open.jpg" alt="Logo" width="800" height="400">
+   <img src="media/open.jpg" alt="Logo" width="400" height="200">
 2. Remove all wiring and circuits.
 
-    <img src="media/wiring.jpg" alt="Logo" width="800" height="400">
+    <img src="media/wiring.jpg" alt="Logo" width="400" height="200">
 
 3. Cut slot in battery holder, for fitting lipo battery.
     
-    <img src="media/cutslot.jpg" alt="Logo" width="800" height="400">
-    <img src="media/slotver.jpg" alt="Logo" width="800" height="400">
+    <img src="media/cutslot.jpg" alt="Logo" width="400" height="200">
+    <img src="media/slotver.jpg" alt="Logo" width="400" height="200">
 
 4. Remove steering motor.(we will replace it with servo)
     
-    <img src="media/wiring.jpg" alt="Logo" width="800" height="400">
+    <img src="media/wiring.jpg" alt="Logo" width="400" height="200">
 
 5. Cut slots to accommodate servo motor.
    
@@ -53,15 +53,23 @@ RC car, which you can control from your PC.
 
 7. Fix the servo to chassis with the help of few spacers.
     
-    <img src="media/10.jpg" alt="Logo" width="800" height="400">
+    <img src="media/10.jpg" alt="Logo" width="400" height="200">
 8. Put back the cover.
 
-    <img src="media/8.jpg" alt="Logo" width="800" height="350">
+    <img src="media/8.jpg" alt="Logo" width="400" height="180">
 9. Follow the schematic and solder the parts.
 
-    <img src="media/Schematic-diagram.png" alt="Logo" width="800" height="600">
+    <img src="media/Schematic-diagram.png" alt="Logo" width="400" height="300">
 
-10. If you are struck follow the following video.
+10. If you have done everything right it should look something like this.
+     
+     <img src="media/Schematic-diagram.png" alt="Logo" width="400" height="300">
+     <img src="media/Schematic-diagram.png" alt="Logo" width="400" height="300">
+     <img src="media/Schematic-diagram.png" alt="Logo" width="400" height="300">
+     <img src="media/Schematic-diagram.png" alt="Logo" width="400" height="300">
+     
+     
+12. If you are struck follow the following video.
 
 ## Code
 
