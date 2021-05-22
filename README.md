@@ -1,5 +1,6 @@
 # ESP32-RC-car
 RC car, which you can control from your PC.
+
 ![image][car]
  
 ## Things required
@@ -110,3 +111,4 @@ Feel free to point out issues. You can contribute to this repo to improve it.
 [wires]: media/img.jpg
 [pcb]: media/img.jpg
 [esp32]: media/img.jpg
+[car]: media/img.jpg
