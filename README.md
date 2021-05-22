@@ -68,7 +68,7 @@ RC car, which you can control from your PC.
      <img src="media/12.jpg" alt="Logo" width="400" height="300">
      <img src="media/11.jpg" alt="Logo" width="400" height="300">
      
-     
+11. I have added standoffs to hold the circuit above the battery.   
 12. If you are struck follow the following video.
 
 ## Code
