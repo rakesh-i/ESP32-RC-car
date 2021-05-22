@@ -5,7 +5,7 @@ RC car, which you can control from your PC.
  
 ## Things required
 
-`Before we start you can use any other similar parts to build your car. You just need to adjust your car according to it.`
+`Before we start you can use any other similar parts to build your car. You just need to adjust your code according to it.`
 
 
 
