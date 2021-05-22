@@ -2,8 +2,15 @@
 RC car, which you can control from your PC.
 
 ![image][car]
+
+### Prerequisites
+* Knowledge on how to work with MicroPython on ESP32 or any other Micropython compitable development board.
+* Comfortable with soldering on PCB board.
+* Basic knowledge in arduino programming.
+* Basic knowledge in python programming.
+
  
-## Things required
+### Things required
 
 `Before we start you can use any other similar parts to build your car. You just need to adjust your code according to it.`
 
