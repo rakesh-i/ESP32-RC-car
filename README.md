@@ -67,9 +67,12 @@ RC car, which you can control from your PC.
 
 1. Follow this [link](), where you can find how to setup client-server socket using micropython.
 2. Now that you know how to setup socket for wireless connection. Modify files in esp32-files to setup your connection. 
-3. Once connection is made you can drive the car using AWSD keys on keyboard.
-4. You can change speed by changing the motorSpeed() function in server.py
-5. If direction is reversed, flip the sign of motorSpeed() values.
+3. Copy all the files in folder esp32 files to your esp32.
+4. Confirm every thing is working before putting esp32 on car.
+5. Now, turn on your car, wait for it to connect to your wifi. Once connected run client.py
+6. Once connection is made you can drive the car using AWSD keys on keyboard.
+7. You can change speed by changing the motorSpeed() function in server.py
+8. If direction is reversed, flip the sign of motorSpeed() values.
 
 
 ## Contribution
