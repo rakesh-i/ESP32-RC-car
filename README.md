@@ -68,7 +68,10 @@ RC car, which you can control from your PC.
      <img src="media/12.jpg" alt="Logo" width="400" height="300">
      <img src="media/11.jpg" alt="Logo" width="400" height="300">
      
-11. I have added standoffs to hold the circuit above the battery.   
+11. I have added standoffs to hold the circuit above the battery.
+     
+     <img src="media/standoff.jpg" alt="Logo" width="400" height="300">  
+12. Re-route esp32 cam antenna wher interference is less. 
 12. If you are struck follow the following video.
 
 ## Code
