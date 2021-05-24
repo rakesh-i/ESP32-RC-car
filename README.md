@@ -83,7 +83,7 @@ RC car, which you can control from your PC.
 
 ## Code
 
-1. Follow this [link](), where you can find how to setup client-server socket using micropython.
+1. Follow this [link](https://github.com/rakesh-i/MicroPython-Socket-programming), where you can find how to setup client-server socket using micropython.
 2. Now that you know how to setup socket for wireless connection. Modify files in esp32-files to setup your connection. 
 3. Copy all the files in folder esp32 files to your esp32.
 4. Confirm every thing is working before putting esp32 on car.
